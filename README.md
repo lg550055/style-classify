@@ -8,4 +8,4 @@ Fetches an image from the web and uses machine learning to change the style and 
 
 *These modules work standalone or together. For example, the output of the Scraper can be passed as the content image to the Styler and / or to the Classifier.*
 
-##### Find additional instructions and descriptions in the notebook
+Find additional instructions and descriptions in the notebook.
