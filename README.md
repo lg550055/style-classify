@@ -1,7 +1,7 @@
 # Style and classify any image
 Uses machine learning to change the style and classify an image retrieved from the web (or from a preloaded sample).
 
-## The Jupyter notebok contains three modules:
+### Python on Jupyter notebok with three modules:
 #### 1. Scraper
   - Upon a text prompt, returns a url to the desired image from the web using google search
 #### 2. Styler
