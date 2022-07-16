@@ -1,4 +1,4 @@
-# Style and classify any image
+# Style and classify any image &middot; ![technologies](https://badgen.net/badge/libraries/tensorflow,numpy,matplotlib?list=|)
 Uses machine learning to change the style and classify an image retrieved from the web (or from a preloaded sample).
 
 ### Python on Jupyter notebok with three modules:
